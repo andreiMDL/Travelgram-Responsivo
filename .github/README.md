@@ -22,3 +22,6 @@ A proposta foi criar uma interface de perfil de uma rede social voltada para via
 
 - **HTML5**
 - **CSS3**
+
+🎓 Créditos
+Projeto desenvolvido a partir do curso da Rocketseat ministrado por Mayk Brito.
