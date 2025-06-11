@@ -2,6 +2,7 @@
 
 Travelgram é uma rede social fictícia de viagens, desenvolvida como **desafio de responsividade** durante o curso da **Rocketseat** com o professor **Mayk Brito**. O principal objetivo deste projeto foi praticar a construção de interfaces com **HTML**, **CSS** e o uso de **técnicas de design responsivo**.
 
+
 ![Capa do projeto](./Thumbnail.png)
 
 ---
@@ -25,3 +26,8 @@ A proposta foi criar uma interface de perfil de uma rede social voltada para via
 
 🎓 Créditos
 Projeto desenvolvido a partir do curso da Rocketseat ministrado por Mayk Brito.
+
+## 🚀 Acesse o projeto
+
+Clique aqui para visualizar o projeto online:  
+👉 [Travelgram - Visualizar](https://andreimdl.github.io/Travelgram-Responsivo/)
